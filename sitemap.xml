@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yu-suzuki.github.io/dbws2018/registration/</loc>
+    <lastmod>2018-06-25T16:43:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yu-suzuki.github.io/dbws2018/presenter/</loc>
+    <lastmod>2018-06-25T16:42:42+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yu-suzuki.github.io/dbws2018/venue/</loc>
     <lastmod>2018-06-25T16:42:38+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yu-suzuki.github.io/dbws2018/program/</loc>
+    <lastmod>2018-06-25T16:42:34+09:00</lastmod>
   </url>
   
   <url>
@@ -19,7 +34,7 @@
   
   <url>
     <loc>https://yu-suzuki.github.io/dbws2018/</loc>
-    <lastmod>2018-06-25T16:42:38+09:00</lastmod>
+    <lastmod>2018-06-25T16:43:25+09:00</lastmod>
     <priority>0</priority>
   </url>
   

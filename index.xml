@@ -6,10 +6,28 @@
     <description>Recent content on Kansai Database Workshop 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 25 Jun 2018 16:42:38 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jun 2018 16:43:25 +0900</lastBuildDate>
     
 	<atom:link href="https://yu-suzuki.github.io/dbws2018/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Registration</title>
+      <link>https://yu-suzuki.github.io/dbws2018/registration/</link>
+      <pubDate>Mon, 25 Jun 2018 16:43:25 +0900</pubDate>
+      
+      <guid>https://yu-suzuki.github.io/dbws2018/registration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presenter</title>
+      <link>https://yu-suzuki.github.io/dbws2018/presenter/</link>
+      <pubDate>Mon, 25 Jun 2018 16:42:42 +0900</pubDate>
+      
+      <guid>https://yu-suzuki.github.io/dbws2018/presenter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Venue</title>
@@ -17,6 +35,15 @@
       <pubDate>Mon, 25 Jun 2018 16:42:38 +0900</pubDate>
       
       <guid>https://yu-suzuki.github.io/dbws2018/venue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>https://yu-suzuki.github.io/dbws2018/program/</link>
+      <pubDate>Mon, 25 Jun 2018 16:42:34 +0900</pubDate>
+      
+      <guid>https://yu-suzuki.github.io/dbws2018/program/</guid>
       <description></description>
     </item>
     
