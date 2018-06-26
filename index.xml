@@ -6,10 +6,19 @@
     <description>Recent content on Kansai Database Workshop 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 25 Jun 2018 16:43:25 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jun 2018 09:11:47 +0900</lastBuildDate>
     
 	<atom:link href="https://yu-suzuki.github.io/dbws2018/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Award</title>
+      <link>https://yu-suzuki.github.io/dbws2018/award/</link>
+      <pubDate>Tue, 26 Jun 2018 09:11:47 +0900</pubDate>
+      
+      <guid>https://yu-suzuki.github.io/dbws2018/award/</guid>
+      <description>学生奨励賞として，優秀な発表を行った学生には表彰状と賞品が贈呈される予定です．</description>
+    </item>
     
     <item>
       <title>Registration</title>
@@ -17,7 +26,9 @@
       <pubDate>Mon, 25 Jun 2018 16:43:25 +0900</pubDate>
       
       <guid>https://yu-suzuki.github.io/dbws2018/registration/</guid>
-      <description></description>
+      <description> 参加方法 研究室の先生方へ もし参加されたいという研究室ございましたら，ysuzuki [at] is.naist.jp までご連絡ください．
+研究室の学生さんへ 参加申込は研究室ごとに取りまとめをお願いしています．指導教員の先生へ直接ご連絡ください．個別で 参加されたいという方は ysuzuki [at] is.naist.jp まで．
+費用 参加費  教員 3,000円 学生 2,000円 参加される方はすべて必要です．食事代，宿泊費は含まれていません．  夕食費  教員 2,000円 学生 1,000円 夕食に参加される方のみ必要です．アルコール類は含まれていません．懇親会費は含まれていません．  懇親会費  教員 2,000円 学生 1,000円 懇親会に参加される方のみ必要です．アルコール類は含まれています．懇親会費には夕食が含まれていません．  試算  学生で夕食，懇親会へ参加: 1,000(夕)+2,000(参)+1,000(懇) = 4,000円 学生で参加するだけ: 2,000円 教員で夕食，懇親会へ参加: 2,000(夕)+3,000(参)+2,000円(懇) = 7,000円  </description>
     </item>
     
     <item>
@@ -26,7 +37,7 @@
       <pubDate>Mon, 25 Jun 2018 16:42:42 +0900</pubDate>
       
       <guid>https://yu-suzuki.github.io/dbws2018/presenter/</guid>
-      <description></description>
+      <description> オープニングの時間までに全員，発表資料を掲示してください． 発表番号は 部屋番号-通し番号 です．部屋にはそれぞれパネルが準備してあり，番号が書かれています． ポスターはA0以下の大きさで作成してください． ポスターを聞きに来た人へ手短に説明してください．3分くらいで説明できると良いと思います． 有益な質問や意見を記録できるよう，メモと鉛筆を持参してください． ポスター発表のテンプレートはこちらをご利用ください  </description>
     </item>
     
     <item>
@@ -35,7 +46,8 @@
       <pubDate>Mon, 25 Jun 2018 16:42:38 +0900</pubDate>
       
       <guid>https://yu-suzuki.github.io/dbws2018/venue/</guid>
-      <description></description>
+      <description>甲南大学 iCommons で行います．
+ </description>
     </item>
     
     <item>
@@ -44,7 +56,7 @@
       <pubDate>Mon, 25 Jun 2018 16:42:34 +0900</pubDate>
       
       <guid>https://yu-suzuki.github.io/dbws2018/program/</guid>
-      <description></description>
+      <description>作成中です．3セッションくらいあって，そのあと夕食，最後に懇親会が行われて終了です． 昼12時ごろスタート，21時ごろの終了となる見込みです．</description>
     </item>
     
     <item>
@@ -53,7 +65,12 @@
       <pubDate>Mon, 25 Jun 2018 16:42:27 +0900</pubDate>
       
       <guid>https://yu-suzuki.github.io/dbws2018/about/</guid>
-      <description></description>
+      <description>概要 関西にあるデータベースやデータ管理に関して研究する研究室が一堂に会し，ポスター発表を行い議論を 行う場を企画しました．深い議論や活発な研究交流を促進するとともに，今後の研究成果を生み出す きっかけとなることを期待しています．
+発表形式 ポスター発表を主に行います．1時間程度の時間，参加者に対して発表を行い，質疑応答を行います． 各参加者による匿名の投票結果から，優秀なポスター発表を決定します．
+日程 2018.8.24 発表申込締切
+2018.9.7 参加申込締切
+2018.9.17 関西データベースワークショップ当日
+組織 共同委員長  波多野賢治（同志社大学） 灘本明代（甲南大学）  実行委員  鈴木優（奈良先端科学技術大学院大学）  プログラム委員 （未定）</description>
     </item>
     
   </channel>
