@@ -1,76 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kansai Database Workshop 2018</title>
-    <link>https://yu-suzuki.github.io/dbws2018/</link>
-    <description>Recent content on Kansai Database Workshop 2018</description>
+    <title>Kansai Database Workshop 2019</title>
+    <link>https://yu-suzuki.github.io/dbws2019/</link>
+    <description>Recent content on Kansai Database Workshop 2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 26 Jun 2018 09:11:47 +0900</lastBuildDate>
     
-	<atom:link href="https://yu-suzuki.github.io/dbws2018/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yu-suzuki.github.io/dbws2019/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Award</title>
-      <link>https://yu-suzuki.github.io/dbws2018/award/</link>
+      <link>https://yu-suzuki.github.io/dbws2019/award/</link>
       <pubDate>Tue, 26 Jun 2018 09:11:47 +0900</pubDate>
       
-      <guid>https://yu-suzuki.github.io/dbws2018/award/</guid>
+      <guid>https://yu-suzuki.github.io/dbws2019/award/</guid>
       <description>学生奨励賞として，優秀な発表を行った学生には表彰状と賞品が贈呈される予定です．</description>
     </item>
     
     <item>
       <title>Registration</title>
-      <link>https://yu-suzuki.github.io/dbws2018/registration/</link>
+      <link>https://yu-suzuki.github.io/dbws2019/registration/</link>
       <pubDate>Mon, 25 Jun 2018 16:43:25 +0900</pubDate>
       
-      <guid>https://yu-suzuki.github.io/dbws2018/registration/</guid>
-      <description> 参加方法 研究室の先生方へ もし参加されたいという研究室ございましたら，ysuzuki [at] is.naist.jp までご連絡ください．
-研究室の学生さんへ 参加申込は研究室ごとに取りまとめをお願いしています．指導教員の先生へ直接ご連絡ください．個別で 参加されたいという方は ysuzuki [at] is.naist.jp まで．
-費用 参加費  教員 5,000円 学生 3,000円 参加される方はすべて必要です．食事代は含まれていません．  夕食費・懇親会費  1,000円（学生・教員の両方） 夕食に参加される方のみ必要です．  </description>
+      <guid>https://yu-suzuki.github.io/dbws2019/registration/</guid>
+      <description> 参加方法 参加登録については各研究室の先生方へ方法をお伝えしています．
+研究室の先生方へ もし参加されたいという研究室ございましたら，ysuzuki [at] gifu-u.ac.jp までご連絡ください．
+研究室の学生さんへ 参加申込は研究室ごとに取りまとめをお願いしています．指導教員の先生へ直接ご連絡ください．個別で 参加されたいという方は ysuzuki [at] gifu-u.ac.jp まで．
+費用 費用はすべて当日，研究室ごとにまとめて徴収する予定です．当日までに各研究室の担当者へ支払いを行ってください．宿泊費については9月17日以降に領収書が発行される予定ですので，後日郵送します．
+参加費  教員・社会人 2,000円 学生 1,000円 参加される方はすべて必要です．食事代は含まれていません．  夕食費・懇親会費  4,500円（学生・教員の両方） 夕食に参加される方のみ必要です．  宿泊費  4,500円 宿泊を申し込まれた方のみ必要です ニチイ学館 神戸ポートアイランドセンター  </description>
     </item>
     
     <item>
       <title>Presenter</title>
-      <link>https://yu-suzuki.github.io/dbws2018/presenter/</link>
+      <link>https://yu-suzuki.github.io/dbws2019/presenter/</link>
       <pubDate>Mon, 25 Jun 2018 16:42:42 +0900</pubDate>
       
-      <guid>https://yu-suzuki.github.io/dbws2018/presenter/</guid>
+      <guid>https://yu-suzuki.github.io/dbws2019/presenter/</guid>
       <description> オープニングの時間までに全員，発表資料を掲示してください． 発表番号は 部屋番号-通し番号 です．部屋にはそれぞれパネルが準備してあり，番号が書かれています． ポスターはA0以下の大きさで作成してください． ポスターを聞きに来た人へ手短に説明してください．3分くらいで説明できると良いと思います． 有益な質問や意見を記録できるよう，メモと鉛筆を持参してください． ポスター発表のテンプレートはこちらをご利用ください  </description>
     </item>
     
     <item>
       <title>Venue</title>
-      <link>https://yu-suzuki.github.io/dbws2018/venue/</link>
+      <link>https://yu-suzuki.github.io/dbws2019/venue/</link>
       <pubDate>Mon, 25 Jun 2018 16:42:38 +0900</pubDate>
       
-      <guid>https://yu-suzuki.github.io/dbws2018/venue/</guid>
-      <description>甲南大学 iCommons で行います．
+      <guid>https://yu-suzuki.github.io/dbws2019/venue/</guid>
+      <description>兵庫県立大学 神戸情報科学キャンパス で行います．
+ 懇親会はTHE SKY BUFFETで行います．
  </description>
     </item>
     
     <item>
       <title>Program</title>
-      <link>https://yu-suzuki.github.io/dbws2018/program/</link>
+      <link>https://yu-suzuki.github.io/dbws2019/program/</link>
       <pubDate>Mon, 25 Jun 2018 16:42:34 +0900</pubDate>
       
-      <guid>https://yu-suzuki.github.io/dbws2018/program/</guid>
-      <description>作成中です．3セッションくらいあって，そのあと夕食，最後に懇親会が行われて終了です． 昼12時ごろスタート，21時ごろの終了となる見込みです．</description>
+      <guid>https://yu-suzuki.github.io/dbws2019/program/</guid>
+      <description>作成中です．以下のような予定をしています．
+Day 1 (15 Sep.)
+ 12:00-14:00 Session 1 14:15-16:15 Session 2 16:30-17:30 Discussion Time 18:30-20:30 懇親会  Day 2 (16 Sep.)
+ 8:45-10:45 Session 3 11:00-13:00 Session 4  </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://yu-suzuki.github.io/dbws2018/about/</link>
+      <link>https://yu-suzuki.github.io/dbws2019/about/</link>
       <pubDate>Mon, 25 Jun 2018 16:42:27 +0900</pubDate>
       
-      <guid>https://yu-suzuki.github.io/dbws2018/about/</guid>
-      <description>概要 関西にあるデータベースやデータ管理に関して研究する研究室が一堂に会し，ポスター発表を行い議論を 行う場を企画しました．深い議論や活発な研究交流を促進するとともに，今後の研究成果を生み出す きっかけとなることを期待しています．
+      <guid>https://yu-suzuki.github.io/dbws2019/about/</guid>
+      <description> 概要 関西にあるデータベースやデータ管理に関して研究する研究室が一堂に会し，ポスター発表を行い議論を 行う場を企画しました．深い議論や活発な研究交流を促進するとともに，今後の研究成果を生み出す きっかけとなることを期待しています．
 発表形式 ポスター発表を主に行います．1時間程度の時間，参加者に対して発表を行い，質疑応答を行います． 各参加者による匿名の投票結果から，優秀なポスター発表を決定します．
-日程 2018.8.24 発表申込締切
-2018.9.7 参加申込締切
-2018.9.17 関西データベースワークショップ当日
-組織 共同委員長  波多野賢治（同志社大学） 灘本明代（甲南大学）  実行委員  鈴木優（奈良先端科学技術大学院大学）  プログラム委員 （未定）</description>
+日程  2019.8.16 参加申込締切 2019.8.31 発表申込締切 2019.9.15-16 関西データベースワークショップ当日  組織 共同委員長  波多野賢治（同志社大学） 灘本明代（甲南大学）  実行委員  鈴木優（岐阜大学） 大島裕明（兵庫県立大学）  プログラム委員  吉川正俊（京都大学） 馬強（京都大学） 清水敏之（京都大学） 松下光範（関西大学）  </description>
     </item>
     
   </channel>

@@ -3,49 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yu-suzuki.github.io/dbws2018/award/</loc>
+    <loc>https://yu-suzuki.github.io/dbws2019/award/</loc>
     <lastmod>2018-06-26T09:11:47+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yu-suzuki.github.io/dbws2018/registration/</loc>
+    <loc>https://yu-suzuki.github.io/dbws2019/</loc>
+    <lastmod>2018-06-26T09:11:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yu-suzuki.github.io/dbws2019/registration/</loc>
     <lastmod>2018-06-25T16:43:25+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yu-suzuki.github.io/dbws2018/presenter/</loc>
+    <loc>https://yu-suzuki.github.io/dbws2019/presenter/</loc>
     <lastmod>2018-06-25T16:42:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yu-suzuki.github.io/dbws2018/venue/</loc>
+    <loc>https://yu-suzuki.github.io/dbws2019/venue/</loc>
     <lastmod>2018-06-25T16:42:38+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yu-suzuki.github.io/dbws2018/program/</loc>
+    <loc>https://yu-suzuki.github.io/dbws2019/program/</loc>
     <lastmod>2018-06-25T16:42:34+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yu-suzuki.github.io/dbws2018/about/</loc>
+    <loc>https://yu-suzuki.github.io/dbws2019/about/</loc>
     <lastmod>2018-06-25T16:42:27+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yu-suzuki.github.io/dbws2018/categories/</loc>
-    <priority>0</priority>
+    <loc>https://yu-suzuki.github.io/dbws2019/categories/</loc>
   </url>
   
   <url>
-    <loc>https://yu-suzuki.github.io/dbws2018/</loc>
-    <lastmod>2018-06-26T09:11:47+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yu-suzuki.github.io/dbws2018/tags/</loc>
-    <priority>0</priority>
+    <loc>https://yu-suzuki.github.io/dbws2019/tags/</loc>
   </url>
   
 </urlset>
